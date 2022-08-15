@@ -1,0 +1,47 @@
+.pic{
+    width: 400px;
+    height: 400px;
+
+}
+.card
+{
+    border: 1px  black;
+    border-style: dotted;
+    border-color: blue;
+    background-color:  lightseagreen;
+  /*  margin-left: 40px;
+    margin-top: 40px;*/
+    
+  /* THE ABOVE CODE OF MARGIN IS WRITTEN BY PRO CODER AS SHOWN BELOW*/  
+    margin: 40px 0px 0px 40px;  /* margin: top margin  right margin   bottom margin   lest margin ; */
+    border-width: 2px;
+    padding : 20px;
+    display: flex;
+    margin-bottom: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* it is used to change font of multiple types in the user computer 
+    like first it will change the font to vendena then if that font is not present in user computer then it will change to geneva and  if 
+    that also is not present then it changes to tahoma and so on....*/
+}
+.class1
+{
+    margin-left: 60px;
+}
+
+font-family: Verdana, Geneva, Tahoma, sans-serif; /* it is used to change font of multiple types in the user computer 
+like first it will change the font to co*/.bvendena then if that font is not present in user computer then it will change to geneva and  if 
+that also is not present then it changes to tahoma and so on....der
+{
+    border: 2px  black;
+    border-style: dotted;
+    border-color: blue;
+    margin-bottom: 350px;
+}
+.border2
+{
+    border: 2px  black;
+    border-style: dotted;
+    border-color: blue;
+    margin-bottom: 300px;
+    text-align: center;
+    font-size: 50px;
+}
